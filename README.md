@@ -9,3 +9,7 @@ Event cameras asynchronously capture changes in brightness at each pixel with mi
 - Fusion of event data and blurry RGB frames  
 - Temporal alignment of events and frames  
 - Trained and evaluated on the CVPR challenge dataset
+
+## Link
+
+https://tub-rip.github.io/eventvision2025/
